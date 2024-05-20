@@ -45,6 +45,12 @@ Install dependencies
 Open the XAMPP application and start the Apache and MYSQL service.
 Click on admin beside the MYSQL.Run the main.py file and click on the link to access the project.
 
+FUTURE ENHANCEMENT
+
+1.Enhanced Database Storage Facility
+2.Enhanced User-Friendly GUI
+3.Real-Time Weather Updates
+4.Mobile Application Support
 
 ## Authors
 
