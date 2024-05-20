@@ -6,7 +6,7 @@ Through this platform, farmers can market their produce online, and buyers can p
 SOFTWARE REQUIREMENTS:
 
 Frontend- HTML, CSS, Java Script, Bootstrap             
-Backend-Python flask (Python 3.7) , SQLAlchemy,
+Backend-Python flask (Python 3.7) , SQLAlchemy
 1. Operating System: Windows 10
 2. Google Chrome/Internet Explorer
 3. XAMPP (Version-3.7)
