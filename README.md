@@ -12,6 +12,7 @@ Backend-Python flask (Python 3.7) , SQLAlchemy,
 3. XAMPP (Version-3.7)
 4. Python main editor (user interface): PyCharm Community
 5. workspace editor: Visual Studio Code
+   
 HARDWARE REQUIREMENTS:
 1. Computer with a 1.1 GHz or faster processor
 2. Minimum 2GB of RAM or more
